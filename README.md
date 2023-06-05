@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @dojomojoboo
-- 👀 I’m interested in coding
-- 🌱 I’m currently speed learning python for data extraction
+- 👀 I’m a developer with 20+ years of public sector experience and private learning
+- I've experienced a vast range of languages over that time - HTML, CSS, Javascript, Jquery, Java, ASP, ASP.VB, ASP.NET, C#, .Net, Ruby, Php, SQL, MySQL, Solidity and most recently Python
+- 🌱 I’m currently speed learning Python for data extraction and AI data analysis
 - 🌱 I’m currently learning solidity
-- 💞️ I’m interested in AI
+- 💞️ I’m interested in AI - ChatGPT is addictive!!!
 - 💞️ I’m interested in Python
 
 <!---
